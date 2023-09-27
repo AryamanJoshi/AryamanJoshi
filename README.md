@@ -32,6 +32,3 @@
 [![React Badge](https://img.shields.io/badge/-Audacity-0000CC?style=for-the-badge&labelColor=black&logo=audacity&logoColor=FFD43B)](#)
 [![React Badge](https://img.shields.io/badge/-Ableton_Live-000000?style=for-the-badge&labelColor=black&logo=abletonlive&logoColor=FFFFFF)](#)
 [![React Badge](https://img.shields.io/badge/-Finale-14D8CC?style=for-the-badge&labelColor=black&logo=adobefonts&logoColor=14D8CC)](#)
-
-## Spoken Languages
-[![React Badge](https://img.shields.io/badge/-हिन्दी-14D8CC?style=for-the-badge&labelColor=black&logo=adobefonts&logoColor=14D8CC)](#)
