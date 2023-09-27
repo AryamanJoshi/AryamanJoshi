@@ -1,5 +1,4 @@
-# Aryaman Manish Joshi [In progress]
-
+# Aryaman Manish Joshi
 ## Coding languages with Frameworks:
  <!-- + PYTHON + -->
 [![React Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=FFD43B)](#)
