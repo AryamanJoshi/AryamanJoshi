@@ -7,6 +7,7 @@
 [![React Badge](https://img.shields.io/badge/-Matplotlib-FFD43B?style=&labelColor=white&logo=python&logoColor=FFD43B)](#)
 [![React Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?style=&labelColor=white&logo=pytorch&logoColor=EE4C2C)](#)
 [![React Badge](https://img.shields.io/badge/-SciKit--Learn-F7931E?style=&labelColor=white&logo=scikitlearn&logoColor=F7931E)](#)
+[![React Badge](https://img.shields.io/badge/-Jupyter-F37626?style=&labelColor=white&logo=jupyter&logoColor=F37626)](#)
 [![React Badge](https://img.shields.io/badge/-Pygame-FFE873?style=&labelColor=white&logo=python&logoColor=FFE873)](#)
 
 <!-- + R + -->
@@ -16,6 +17,13 @@
 [![React Badge](https://img.shields.io/badge/-ggplot-1A162D?style=&labelColor=white&logo=tidyverse&logoColor=1A162D)](#)
 [![React Badge](https://img.shields.io/badge/-Shiny-276DC3?style=&labelColor=white&logo=tidyverse&logoColor=276DC3)](#)
 [![React Badge](https://img.shields.io/badge/-Plotly-3F4F75?style=&labelColor=white&logo=plotly&logoColor=3F4F75)](#)
+
+<!-- + SQL + -->
+[![React Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
+
+<!-- + Others + -->
+[![React Badge](https://img.shields.io/badge/-Mathematica-DD1100?style=for-the-badge&labelColor=black&logo=wolframmathematica&logoColor=DD1100)](#)
+
 
 ## Software
 ### Data
