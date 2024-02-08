@@ -1,5 +1,6 @@
 # Aryaman Manish Joshi
 ## Coding languages with Frameworks:
+### Data Science
  <!-- + PYTHON + -->
 [![React Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=FFD43B)](#)
 [![React Badge](https://img.shields.io/badge/-Pandas-150458?style=&labelColor=white&logo=pandas&logoColor=150458)](#)
@@ -21,6 +22,13 @@
 <!-- + SQL + -->
 [![React Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 
+### Web Development
+<!-- + Web Development + -->
+[![React Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
+[![React Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
+[![React Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
+
+### Other
 <!-- + Others + -->
 [![React Badge](https://img.shields.io/badge/-Mathematica-DD1100?style=for-the-badge&labelColor=black&logo=wolframmathematica&logoColor=DD1100)](#)
 
@@ -40,3 +48,6 @@
 [![React Badge](https://img.shields.io/badge/-Audacity-0000CC?style=for-the-badge&labelColor=black&logo=audacity&logoColor=FFD43B)](#)
 [![React Badge](https://img.shields.io/badge/-Ableton_Live-000000?style=for-the-badge&labelColor=black&logo=abletonlive&logoColor=FFFFFF)](#)
 [![React Badge](https://img.shields.io/badge/-Finale-14D8CC?style=for-the-badge&labelColor=black&logo=adobefonts&logoColor=14D8CC)](#)
+
+
+
